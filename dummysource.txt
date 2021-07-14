@@ -1,2 +1,0 @@
-test integration jenkins and jira
-test another integration using github and jira
